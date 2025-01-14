@@ -43,6 +43,7 @@ public class Sample {
      * Pattern matching and null.
      */
     static String setUserPassword(String user) {
+        // Testing line, Hardcoded Pwd moved to next line.
         String password = "changeMe";
 
         switch (user) {
